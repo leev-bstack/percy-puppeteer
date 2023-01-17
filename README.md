@@ -6,9 +6,7 @@
 
 ## Installation
 
-```sh-session
-$ npm install --save-dev @percy/cli @percy/puppeteer
-```
+This is a fork of Percy.  No NPM configured
 
 ## Usage
 
